@@ -1,6 +1,5 @@
 # BANKMANAGEMENT
 <br>
-Description: 
 <br>
 The Java Bank Management System project is a comprehensive software solution designed to facilitate efficient banking operations for both customers and administrators. It consists of several modules aimed at providing a seamless banking experience.
 <br>
@@ -19,5 +18,7 @@ The Java Bank Management System project is a comprehensive software solution des
 7. **Change PIN**: The change PIN feature enables customers to update their account PIN (Personal Identification Number) for enhanced security. Users can modify their PIN to safeguard their accounts against unauthorized access, ensuring the confidentiality of their banking details.
 <br>
 8. **Deposit Interface**: The Deposit module provides an intuitive interface for users to input the desired deposit amount. Customers are prompted to enter the amount they wish to deposit into their accounts, simplifying the transaction process.
+<br>
+<br>
 <br>
 The Java Bank Management System project offers a user-friendly interface 
