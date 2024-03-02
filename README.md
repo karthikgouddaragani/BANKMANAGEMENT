@@ -1,4 +1,4 @@
-# BANKMANAGEMENT
+# BANKMANAGEMENT @CodingRaja
 <br>
 <br>
 The Java Bank Management System project is a comprehensive software solution designed to facilitate efficient banking operations for both customers and administrators. It consists of several modules aimed at providing a seamless banking experience.
